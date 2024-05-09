@@ -11,6 +11,7 @@ TABLES_DICT = {
     "Poverty": "S1701",
     "Housing": "S2501",
     "Foreign Born": "S0201",
+    "Commuting": "B08105B",
 }
 
 ACS_IDS = {
@@ -20,6 +21,7 @@ ACS_IDS = {
     "Poverty": "ACSST",
     "Housing": "ACSST",
     "Foreign Born": "ACSSPP",
+    "Commuting": "ACSDT",
 }
 
 TIME_SLEEP = 0.5
